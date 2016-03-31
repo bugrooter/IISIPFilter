@@ -1,0 +1,7 @@
+D:\My Documents\Visual Studio 2010\Projects\IISIPFilter\IISIPFilter\bin\Debug\IISIPFilter.dll
+D:\My Documents\Visual Studio 2010\Projects\IISIPFilter\IISIPFilter\bin\Debug\IISIPFilter.pdb
+D:\My Documents\Visual Studio 2010\Projects\IISIPFilter\IISIPFilter\obj\Debug\IISIPFilter.dll
+D:\My Documents\Visual Studio 2010\Projects\IISIPFilter\IISIPFilter\obj\Debug\IISIPFilter.pdb
+D:\My Documents\Visual Studio 2010\Projects\IISIPFilter\IISIPFilter\obj\Debug\IISIPFilter.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\WebSites\WebSite1\Bin\IISIPFilter.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\WebSites\WebSite1\Bin\IISIPFilter.pdb
